@@ -2,9 +2,9 @@ import profile from "../assets/profile.jpg"
 
 function About() {
     return (
-        <div className="text-white flex flex-col gap-6 px-6 py-8 bg-slate-800 items-center justify-center">
-            <div className="font-bold">About Me</div>
-            <img src={profile} alt="profile" className="max-w-[150px] h-auto rounded-full" />
+        <div className="text-white flex flex-col gap-5 px-6 py-8 bg-slate-800 items-center justify-center">
+            <div className="font-bold whitespace-nowrap">About Me</div>
+            <img src={profile} alt="profile" className="max-w-[150px] rounded-full" />
             <div className="text-white text-center">
                 <div>Yazid Yasykur</div>
                 <div className="text-sm">Frontend Developer</div>
