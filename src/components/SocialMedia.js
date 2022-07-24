@@ -4,8 +4,8 @@ import { faTwitter, faFacebook, faGithub, faLinkedin } from '@fortawesome/free-b
 
 function SocialMedia (){
     return(
-        <div className="flex flex-col gap-5 items-center px-6 py-8 bg-slate-900 text-white">
-            <h1 className="">Social Media</h1>
+        <div className="flex flex-col gap-5 items-center px-2 py-8 bg-slate-900 text-white">
+            <h1 className="mb-5 font-bold">Social Media</h1>
             <p className="text-xs">Find me in:</p>
             <div className="text-3xl flex gap-5">
                 <a href="https://twitter.com/yjdyskr" target="_blank"><FontAwesomeIcon icon={faTwitter} className="hover:text-lime-400"/></a>
