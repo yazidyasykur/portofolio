@@ -1,0 +1,19 @@
+[
+    {
+        "name":"Meme Generator",
+        "imgUrl":"https://storage.googleapis.com/yazidyasykur-portofolio-bucket/meme.jpg",
+        "url":"https://yzd-genmeme.netlify.app/"
+    },
+
+    {
+        "name":"Tenzies",
+        "imgUrl":"https://storage.googleapis.com/yazidyasykur-portofolio-bucket/tenzies.jpg",
+        "url":"https://yazidyasykur-portofolio.et.r.appspot.com/"
+    },
+
+    {
+        "name":"Netflix Clone",
+        "imgUrl":"https://storage.googleapis.com/yazidyasykur-portofolio-bucket/netflix.jpg",
+        "url":"https://pair-03a-dts-mini-project.netlify.app/"
+    }
+]
